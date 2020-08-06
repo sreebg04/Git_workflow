@@ -4,19 +4,20 @@ Product code()
 {
   // Product Initial Code
 }
+<<<<<<< HEAD
 Developemtn test code()
 {
   //Sample Merger Testing code
-}
+=======
 Feature code()
 {
   // Sample feature code
+>>>>>>> Feature3
 }
 if (date_time == 25th day of month):
 {
   // Release the Product Code
 }
-
 
 }
   

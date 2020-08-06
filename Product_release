@@ -8,21 +8,21 @@ Developemtn test code()
 {
   // Sample Merger Testing code
 }
-Feature2 Code()
+Feature1 Code()
 {
   // Sample feature2 code
 }
-if (date_time == 25th day of month):
-{
-  //Sample Merger Testing code
-}
-Feature code()
+Feature2 code()
 {
   // Sample feature code
 }
+Feature code()
+{
+  //Sample Feature1 code
+}
 if (date_time == 25th day of month):
 {
-  // Release the Product Code
+  // Release the Product Code}
 }
 }
   

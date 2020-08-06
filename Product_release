@@ -2,13 +2,15 @@ pseudo code
 {
 Product code()
 {
-// Product Initial Code
+  // Product Initial Code
+}
+Feature2 Code()
 {
+  // Sample feature2 code
+}
 if (date_time == 25th day of month):
 {
  // Release the Product Code
-}
-}
 }
 
 }
